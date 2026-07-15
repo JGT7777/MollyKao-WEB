@@ -10,7 +10,7 @@ The CSS took me a little less time — around 19–20 minutes.
 
 I still need to make some adjustments because I might change the colors.
 Thank you for reading!
-I thought of maybe adding more sections, or maybe like adding a loggin system, but for that I need a custom domain!
+I thought of maybe adding more sections, or maybe like adding a login system, but for that I need a custom domain!
 
 By the way, I’m Spanish, that’s why it’s written in Spanish :D. BYE! 😼
 
