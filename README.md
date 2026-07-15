@@ -1,2 +1,2 @@
 # MollyKao-WEB
-My new project created. Is my new web
+This is my new web, I spend 1 hour to do the basic HTML and the CSS, I will be upgrading it!
